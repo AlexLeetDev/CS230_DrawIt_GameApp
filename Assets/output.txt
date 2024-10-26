@@ -1,0 +1,32 @@
+About to test initializing game data...
+Game [id=1, name=Game #1]
+Game [id=2, name=Game #2]
+Game [id=1, name=Game #1]
+
+About to test adding teams...
+Team [id=1, name=Team Alpha]
+Team [id=2, name=Beta]
+Team [id=1, name=Team Alpha]
+
+About to test adding players...
+Player [id=1, name=Player 1]
+Player [id=2, name=Player 2]
+Player [id=1, name=Player 1]
+
+About to test the singleton...
+Game [id=1, name=Game #1]
+Game [id=2, name=Game #2]
+
+About to test edge case: adding a game with an empty name...
+Error: Game name cannot be empty.
+
+About to test edge case: adding a team with an empty name...
+Error: Team name cannot be empty.
+
+About to test edge case: adding a player with an empty name...
+Error: Player name cannot be empty.
+
+Summary of entities:
+Number of active games: 2
+Number of active teams: 2
+Number of active players: 2
