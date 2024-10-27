@@ -34,7 +34,7 @@ The following is the UML Class Diagram for the **Draw It or Lose It** project, i
 | `GameService.java`  | Uses Singleton pattern to control a single game instance.                        |
 | `ProgramDriver.java`| Entry point for initializing and running the game.                               |
 
-For detailed descriptions of each code file, refer to the [Code Details Document](Assets/code-details.md).
+For detailed descriptions of each code file, refer to the [Code Details Document](https://github.com/AlexLeetDev/CS230_DrawIt_GameApp/blob/main/Assets/code-details.md).
 
 ## Software Design Document
 
