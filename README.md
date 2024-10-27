@@ -2,11 +2,11 @@
 
 > **Note**: This project is a hypothetical scenario developed for academic purposes.
 
-![Platform][def]
-![Java][def2]
-![JDK][def3]
-![Eclipse][def4]
-![MIT License][def5]
+![Platform](https://img.shields.io/badge/platform-multi--platform-blue)
+![Java](https://img.shields.io/badge/language-Java-orange)
+![JDK](https://img.shields.io/badge/JDK-17-blue)
+![Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple)
+![MIT License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Project Overview
 
@@ -14,11 +14,21 @@ The **Draw It or Lose It** project is a web-based, multi-platform expansion of a
 
 ## Table of Contents
 
+- [Draw It or Lose It Game Expansion | Academic Project for Cross-Platform Development](#draw-it-or-lose-it-game-expansion--academic-project-for-cross-platform-development)
+  - [Project Overview](#project-overview)
+  - [Table of Contents](#table-of-contents)
+  - [UML Class Diagram](#uml-class-diagram)
+  - [Code Files Overview](#code-files-overview)
+  - [Software Design Document](#software-design-document)
+    - [Key Sections](#key-sections)
+    - [Access the Full Document](#access-the-full-document)
+  - [License](#license)
+
 ## UML Class Diagram
 
 The following is the UML Class Diagram for the **Draw It or Lose It** project, illustrating relationships and responsibilities of each class.
 
-![UML Class Diagram][def6]
+![UML Class Diagram](https://github.com/AlexLeetDev/CS230_DrawIt_GameApp/blob/main/Assets/CS-230_Project_One_UML_LEET.png)
 
 ## Code Files Overview
 
@@ -31,7 +41,7 @@ The following is the UML Class Diagram for the **Draw It or Lose It** project, i
 | `GameService.java`  | Uses Singleton pattern to control a single game instance.                        |
 | `ProgramDriver.java`| Entry point for initializing and running the game.                               |
 
-For detailed descriptions of each code file, refer to the [Code Details Document][def7].
+For detailed descriptions of each code file, refer to the [Code Details Document](https://github.com/AlexLeetDev/CS230_DrawIt_GameApp/blob/main/Assets/code-details.md).
 
 ## Software Design Document
 
@@ -74,20 +84,10 @@ The **Software Design Document** created for the **Draw It or Lose It Game Expan
 
 ### Access the Full Document
 
-For an in-depth understanding, view the complete **Software Design Document** [here][def8].
+For an in-depth understanding, view the complete **Software Design Document** [here](https://github.com/AlexLeetDev/CS230_DrawIt_GameApp/blob/main/Assets/CS230_7-1_Project_Three_LEET.docx).
 
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software, provided proper attribution is given.
 
-For more details, see the [LICENSE][def9] file.
-
-[def]: https://img.shields.io/badge/platform-multi--platform-blue
-[def2]: https://img.shields.io/badge/language-Java-orange
-[def3]: https://img.shields.io/badge/JDK-17-blue
-[def4]: https://img.shields.io/badge/IDE-Eclipse-purple
-[def5]: https://img.shields.io/badge/license-MIT-brightgreen
-[def6]: https://github.com/AlexLeetDev/CS230_DrawIt_GameApp/blob/main/Assets/CS-230_Project_One_UML_LEET.png
-[def7]: https://github.com/AlexLeetDev/CS230_DrawIt_GameApp/blob/main/Assets/code-details.md
-[def8]: https://github.com/AlexLeetDev/CS230_DrawIt_GameApp/blob/main/Assets/CS230_7-1_Project_Three_LEET.docx
-[def9]: https://github.com/AlexLeetDev/CS230_DrawIt_GameApp/blob/main/LICENSE
+For more details, see the [LICENSE](https://github.com/AlexLeetDev/CS230_DrawIt_GameApp/blob/main/LICENSE) file.
