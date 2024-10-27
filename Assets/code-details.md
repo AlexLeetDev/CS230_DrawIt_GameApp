@@ -4,6 +4,23 @@ This document provides an in-depth look at each code file in the **Draw It or Lo
 
 ## Table of Contents
 
+- [Code Details for Draw It or Lose It Game Expansion](#code-details-for-draw-it-or-lose-it-game-expansion)
+  - [Table of Contents](#table-of-contents)
+  - [Entity.java](#entityjava)
+    - [Complete Code for Entity.java](#complete-code-for-entityjava)
+  - [Game.java](#gamejava)
+    - [Complete Code for Game.java](#complete-code-for-gamejava)
+  - [Team.java](#teamjava)
+    - [Complete Code for Team.java](#complete-code-for-teamjava)
+  - [Player.java](#playerjava)
+    - [Complete Code for Player.java](#complete-code-for-playerjava)
+  - [GameService.java](#gameservicejava)
+    - [Complete Code for GameService.java](#complete-code-for-gameservicejava)
+  - [ProgramDriver.java](#programdriverjava)
+    - [Complete Code for ProgramDriver.java](#complete-code-for-programdriverjava)
+  - [SingletonTester.java *(Optional)*](#singletontesterjava-optional)
+    - [Complete Code for SingletonTester.java](#complete-code-for-singletontesterjava)
+
 ---
 
 ## Entity.java
